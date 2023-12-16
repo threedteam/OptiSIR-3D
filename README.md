@@ -1,4 +1,5 @@
-# OptiSIR-3D
-the official code for OptiSIR-3D
+# OptiSIR-3D:
+
+Code for the paper: "[OptiSIR-3D: A Framework of Multivariate Time Series Classification for Lung Cancer Detection]
 
 ![OptiSIR-3D diagram](media/framework.png)
